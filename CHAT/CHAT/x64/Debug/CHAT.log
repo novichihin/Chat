@@ -1,0 +1,4 @@
+﻿  CHAT.cpp
+C:\Users\79144\source\repos\CHAT\CHAT\CHAT.cpp(80,88): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\79144\source\repos\CHAT\CHAT\CHAT.cpp(77,18): warning C4101: msg: неиспользованная локальная переменная
+  CHAT.vcxproj -> C:\Users\79144\source\repos\CHAT\x64\Debug\CHAT.exe
